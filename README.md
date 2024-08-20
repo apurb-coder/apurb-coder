@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **apurb26022@gmail.com**
+- 📫 How to reach me **apurb2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
