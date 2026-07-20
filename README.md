@@ -27,8 +27,6 @@
 
 ### ⚡ About Me
 
-- 🏢 **Current Role:** Security Managed Services Associate @ **Accenture** (DAST, API Pentesting, VAPT & OWASP Remediation).
-- 🎓 **Education:** B.Tech in Computer Science & Engineering @ **KIIT** (CGPA: 8.58 / 10).
 - 🌱 **Learning & Researching:** Advanced Distributed Systems, Rust, & High-Performance TypeScript.
 - 💬 **Ask Me About:** MERN Stack, WebSockets Scaling, System Architecture, Redis Caching Strategies, API Gateways, & Web Application Security.
 - 📬 **Reach Me:** `apurb2003@gmail.com`
