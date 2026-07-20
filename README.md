@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Apurba Mandal (Apurb)</h1>
-<h3 align="center">Full-Stack Engineer & Cyber Security Specialist</h3>
+<h3 align="center">Full-Stack & Distributed Systems Developer</h3>
 <p align="center">
-  <em>Building high-concurrency distributed systems, real-time web platforms, and secure API architectures.</em>
+  <em>Building high-concurrency distributed systems, real-time web applications, and scalable API architectures.</em>
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 ### ⚡ About Me
 
 - 🌱 **Learning & Researching:** Advanced Distributed Systems, Rust, & High-Performance TypeScript.
-- 💬 **Ask Me About:** MERN Stack, WebSockets Scaling, System Architecture, Redis Caching Strategies, API Gateways, & Web Application Security.
+- 💬 **Ask Me About:** MERN Stack, WebSockets Scaling, System Architecture, Redis Caching Strategies, & API Gateways.
 - 📬 **Reach Me:** `apurb2003@gmail.com`
 - 🌟 **Open Source:** Contributor to [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat/pull/31467) (`PR #31467`).
 
@@ -73,7 +73,7 @@
   <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC" />
 </p>
 
-#### 🔒 Security, DevOps & Infrastructure
+#### ⚙️ DevOps, Tools & Infrastructure
 <p>
   <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
   <img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white" alt="Nmap" />
