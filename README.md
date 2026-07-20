@@ -162,8 +162,7 @@
 ### 📈 GitHub Statistics & Activity
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=apurb-coder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Apurb's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apurb-coder&layout=compact&theme=tokyonight&hide=html,css" alt="Apurb's Top Languages" />
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=apurb-coder&layout=compact&langs_count=10&theme=gruvbox"><img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=apurb-coder&layout=compact&langs_count=10&theme=gruvbox" alt="Apurb's Top Languages" /></a>
 </p>
 
 <p align="center">
