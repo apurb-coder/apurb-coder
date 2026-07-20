@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Apurb </h1>
+<h1 align="center">Hi 👋, I'm Apurba Mandal (Apurb)</h1>
 <h3 align="center">Full-Stack Engineer & Cyber Security Specialist</h3>
 <p align="center">
   <em>Building high-concurrency distributed systems, real-time web platforms, and secure API architectures.</em>
@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=apurb-coder&theme=onedark&column=6" alt="apurb-coder trophies" />
+    <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=apurb-coder&theme=gruvbox" alt="apurb-coder trophies" />
   </a>
 </p>
 
