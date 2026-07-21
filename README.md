@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Apurba Mandal (Apurb)</h1>
+<h1 align="center">Hi 👋, I'm Apurb</h1>
 <h3 align="center">Full-Stack & Distributed Systems Developer</h3>
 <p align="center">
   <em>Building high-concurrency distributed systems, real-time web applications, and scalable API architectures.</em>
